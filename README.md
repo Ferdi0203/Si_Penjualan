@@ -4,14 +4,16 @@ Sebelum mengakses, buatlah database terlebih dahulu dengan nama "penjualan"
 
 untuk akun login adalah sebagai berikut :
 
-Administrator :
+-> Administrator
 
 Email : ferdi@admin.com || Pass : 123
 
-Pimpinan
+
+-> Pimpinan
 
 Email : ardian@gmail.com || Pass : 123
 
-Kasir
+
+-> Kasir
 
 Email : kasir@gmail.com || Pass : kasir
